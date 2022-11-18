@@ -18,3 +18,14 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+.country-info {
+  font-style: italic;
+  margin-left: 0;
+}
+
+.country-list {
+  font-size: 10px;
+  list-style: none;
+  align-items: center;
+  margin-left: 0;
+}
